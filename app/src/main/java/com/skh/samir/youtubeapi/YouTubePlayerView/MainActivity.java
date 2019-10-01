@@ -2,10 +2,9 @@ package com.skh.samir.youtubeapi.YouTubePlayerView;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
-import com.google.android.youtube.player.YouTubePlayerFragment;
 import com.skh.samir.youtubeapi.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
